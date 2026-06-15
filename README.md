@@ -41,7 +41,7 @@ Maestro reads your piano through its MIDI port, capturing each event as:
 - `anthropic` — AI coaching feedback
 
 ---
-
+Ghost-approved.
 ## Status
 
 🚧 Under active development
